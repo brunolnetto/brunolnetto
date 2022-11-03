@@ -1,6 +1,6 @@
 <img  align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolnetto&layout=compact&theme=transparent">
 
-### It is me, welcome 👋 ! 
+### Welcome, it is me! 👋 
 
 <a href="https://www.linkedin.com/in/brunolnetto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a maito="brunolnetto@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://stackoverflow.com/users/4904472/bruno-peixoto"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
