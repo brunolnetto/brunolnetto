@@ -1,8 +1,6 @@
-<img  align=right src="https://github-readme-stats.vercel.app/api?username=brunolnetto&count_private=true&show_icons=true&include_all_commits=true&theme=monokai">
+<img  align=right src="https://github-readme-stats.vercel.app/api?username=brunolnetto">
 
 ### It is me, Welcome 👋 ! 
-
-### Contact me
 
 <a href="https://www.linkedin.com/in/brunolnetto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
 <a maito="brunolnetto@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
