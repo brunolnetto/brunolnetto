@@ -1,11 +1,14 @@
 <h2 align="center"> Welcome 👋! It is me, Bruno Peixoto, a data adventurer!</h2>
 
-- 🌱 I’m currently learning **NodeJS**
-- 🤝 I’m currently working/looking for help on [sappio](https://github.com/web-needle/sappio)
-- 👨‍💻 All of my projects are available at [https://github.com/brunolnetto](https://github.com/brunolnetto)
-- 📝 I regularly write articles on [https://medium.com/@brunolnetto](https://medium.com/@brunolnetto)
-- 📄 Know about my experiences [https://www.linkedin.com/in/brunolnetto/details/featured/1635487245428/single-media-viewer/](https://www.linkedin.com/in/brunolnetto/details/featured/1635487245428/single-media-viewer/)
-- ⚡ Fun fact **I know I think, then I think I know. Most of the time I do not.**
+- I am currently 
+  - 🌱 learning **NodeJS**
+  - 🤝 working/looking for help on 
+    - 🕸️ [web-needle](https://github.com/web-needle);
+    - 🔽 [quivero](https://github.com/quivero);
+    - 👨‍💻 other projects on my [github profile](https://github.com/brunolnetto).
+- 📝 I write regularly articles on my [medium blog](https://medium.com/@brunolnetto);
+- 📄 You can know about my experiences reading [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635487245428/single-media-viewer/);
+- ❓: Fun fact: **I know I think, then I think I know. Most of the time I do not.**
 
 <!-- Light Mode -->
 <div align="center"> 
