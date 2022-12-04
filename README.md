@@ -3,7 +3,7 @@
 - I am currently 
   - 🌱 learning **NodeJS**
   - 🤝 working/looking for help on 
-    - 🕸️ [web-needle](https://github.com/web-needle);
+    - 🕸️ [trouchet](https://github.com/trouchet);
     - 🔽 [quivero](https://github.com/quivero);
     - 👨‍💻 other projects on my [github profile](https://github.com/brunolnetto).
 - 📝 I write articles on my [medium blog](https://medium.com/@brunolnetto);
