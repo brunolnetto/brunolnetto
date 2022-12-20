@@ -2,7 +2,7 @@
 
 - I am currently 
   - 🌱 learning **NodeJS**
-  - 🤝 working/looking for help on 
+  - 🤝 working/looking for inconvenient truths on 
     - 🕸️ [trouchet](https://github.com/trouchet);
     - 🔽 [quivero](https://github.com/quivero);
     - 👨‍💻 other projects on my [github profile](https://github.com/brunolnetto).
