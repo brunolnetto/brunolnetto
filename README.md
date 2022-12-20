@@ -7,7 +7,7 @@
     - 🔽 [quivero](https://github.com/quivero);
     - 👨‍💻 other projects on my [github profile](https://github.com/brunolnetto).
 - 📝 I write articles on my [medium blog](https://medium.com/@brunolnetto);
-- 📄 You can know about my experiences reading [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635487245428/single-media-viewer/);
+- 📄 You can read [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635487245428/single-media-viewer/);
 - ❓ Fun fact: **I know I think, then I think I know. Most of the time I do not.**
 
 <!-- Light Mode -->
