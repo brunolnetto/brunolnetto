@@ -119,7 +119,7 @@
   </a>
   
   <a href="https://python-poetry.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://python-poetry.org/images/logo-origami.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://python-poetry.org/images/logo-origami.svg" alt="flask" width="30" height="30"/> 
   </a>
   
   
