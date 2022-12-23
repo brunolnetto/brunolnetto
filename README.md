@@ -114,6 +114,15 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="flask" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://python-poetry.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://python-poetry.org/images/logo-origami.svg" alt="flask" width="40" height="40"/> 
+  </a>
+  
+  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
