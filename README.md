@@ -1,7 +1,7 @@
 <h2 align="center"> Welcome 👋! It is me, Bruno Peixoto, a data adventurer!</h2>
 
 - I am currently 
-  - 🌱 learning **NodeJS**
+  - 🌱 learning **languages syntax and structure**
   - 🤝 working/looking for inconvenient truths on 
     - 🕸️ [trouchet](https://github.com/trouchet);
     - 🔽 [quivero](https://github.com/quivero);
