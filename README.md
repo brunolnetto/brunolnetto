@@ -1,5 +1,6 @@
 <h2 align="center"> Welcome 👋! It is me, Bruno Peixoto, a data adventurer!</h2>
 
+
 - I am currently 
   - 🌱 learning **languages syntax and structure**
   - 🤝 working/looking for inconvenient truths on 
@@ -9,52 +10,6 @@
 - 📝 I write articles on [my medium blog](https://medium.com/@brunolnetto);
 - 📄 You can read [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635487245428/single-media-viewer/);
 - ❓ Fun fact: **I know I think, then I think I know. Most of the time I do knot.**
-
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Bruno Peixoto's Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook#gh-light-mode-only" alt="Bruno Peixoto's Language stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Language stats" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&#gh-dark-mode-only">
-<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&theme=elegant" alt="Bruno Peixoto's streak stats" />
-</a>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://twitter.com/brunolnetto" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunolnetto" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/brunolnetto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunolnetto" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/brunolnetto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunolnetto" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/brunolnetto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunolnetto" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@brunolnetto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brunolnetto" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/brunohlnp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brunohlnp" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">
   Technical skills:
@@ -137,14 +92,53 @@
   </a>
 </p>
 
-<h3 align="left"> Support: </h3>
-<p>
-  <a href="https://www.buymeacoffee.com/brunolnetto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brunolnetto" /></a><a href="https://ko-fi.com/brunolnetto"> 
-  <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="brunolnetto" />
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://twitter.com/brunolnetto" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunolnetto" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/brunolnetto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunolnetto" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/brunolnetto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunolnetto" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/brunolnetto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunolnetto" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@brunolnetto" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brunolnetto" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/brunohlnp" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brunohlnp" height="30" width="40" />
   </a>
 </p>
 
 <br><br>
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Bruno Peixoto's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook#gh-light-mode-only" alt="Bruno Peixoto's Language stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Language stats" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&#gh-dark-mode-only">
+<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&theme=elegant" alt="Bruno Peixoto's streak stats" />
+</a>
+</div>
 
 <h3 align="left">Viewers count:</h3>
 <p>
@@ -152,3 +146,4 @@
     <img src="https://komarev.com/ghpvc/?username=brunolnetto&label=Profile%20views&color=0e75b6&style=flat" alt="brunolnetto" />
   </a>
 </p>
+
