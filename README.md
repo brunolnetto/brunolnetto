@@ -10,7 +10,7 @@
 - 📝 I write articles on [my medium blog](https://medium.com/@brunolnetto);
 - 📄 You can read [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635516921996/single-media-viewer/);
 - ❓ Fun fact: **I know I think, then I think I know. Most of the time I do knot.**
-- 
+
 <h3 align="left">
   Technical skills:
 </h3>
