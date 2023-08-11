@@ -7,6 +7,15 @@
     - 🕸️ [trouchet](https://github.com/trouchet);
     - 🔽 [quivero](https://github.com/quivero);
     - 👨‍💻 [whosbash](https://github.com/whosbash).
+  - 📦 maintaining packages on:
+    - npm:
+      - [retoric](https://www.npmjs.com/package/retoric): performs boolean and-or conditions with verbose instance interface;
+      - [arqeo](https://www.npmjs.com/package/arqeo): performs validation and transform operations on single object and array of objects;  
+      - [eulejs](https://www.npmjs.com/package/eulejs): decomposes number and string sets in json format in euler diagrams;
+      - [quivero-api](https://www.npmjs.com/package/quivero-api): a collection of data structures in javascript
+    - PyPI:
+      - [eule](https://pypi.org/project/eule/): decomposes number and string sets euler diagrams as a dict;
+      - [spycio](https://pypi.org/project/spycio/): calculates distance using canonical norm formulas
 - 📝 I write articles on [my medium blog](https://medium.com/@brunolnetto);
 - 📄 You can read [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635516921996/single-media-viewer/);
 - ❓ Fun fact: **I know I think, then I think I know. Most of the time I do knot.**
