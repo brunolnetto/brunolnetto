@@ -14,7 +14,7 @@
       - [eulejs](https://www.npmjs.com/package/eulejs): decomposes number and string sets in json format in euler diagrams;
       - [quivero-api](https://www.npmjs.com/package/quivero-api): a collection of data structures in javascript
     - PyPI:
-      - [eule](https://pypi.org/project/eule/): decomposes number and string sets euler diagrams as a dict;
+      - [eule](https://pypi.org/project/eule/): decomposes number and string sets on euler diagrams as a dict;
       - [spycio](https://pypi.org/project/spycio/): calculates distance using canonical norm formulas
 - 📝 I write articles on [my medium blog](https://medium.com/@brunolnetto);
 - 📄 You can read [my curriculum](https://www.linkedin.com/in/brunolnetto/details/featured/1635516921996/single-media-viewer/);
