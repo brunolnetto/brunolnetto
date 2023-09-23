@@ -94,7 +94,10 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrgjZGB5S8deDgABhQWlGaM70dPrc2FbEmH1CEFlMaMMOO3BsBPYOrEeJPCAHzeO-bhY&usqp=CAU" alt="pyspark" width="40" height="40"/> 
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPWgQP0ECHWz1mHzRjmWW0noU63ZMG-qjIq46yP3ODyQSuX4EuM2NFy7w3H0VFS0OIf0&usqp=CAU" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://geopandas.org/en/v0.14.0/_images/geopandas_icon.png" alt="geopandas" width="40" height="40"/> 
   </a>
   <a href="https://www.pola.rs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="polars" width="40" height="40"/> 
