@@ -70,10 +70,10 @@
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:400/1*tfZa4vsI6UusJYt_fzvGnQ.png" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> 
   </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
@@ -97,7 +97,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
   <a href="https://www.pola.rs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="pyspark" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/polars-logo-python.svg" alt="polars" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/> 
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
