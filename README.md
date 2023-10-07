@@ -1,6 +1,20 @@
-<h2 align="center"> Welcome 👋! It is me, Bruno Peixoto, a data adventurer!</h2>
+<h2 align="center"> 
+Welcome 👋! It is me, Bruno Peixoto, a data adventurer!
+</h2>
 
+<h3 align="left">Viewers count:</h3>
+<p>
+  <a href="https://github.com/brunolnetto"> 
+    <img src="https://komarev.com/ghpvc/?username=brunolnetto&label=Profile%20views&color=0e75b6&style=flat" alt="brunolnetto" />
+  </a>
+</p>
 
+<h3 align="left">
+  Resume:
+</h3>
+
+<details>
+  
 - I am currently 
   - 🌱 learning **languages syntax and structure**
   - 🤝 working/looking for inconvenient truths on 
@@ -112,6 +126,7 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
 </p>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -160,11 +175,4 @@
 <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&theme=elegant" alt="Bruno Peixoto's streak stats" />
 </a>
 </div>
-
-<h3 align="left">Viewers count:</h3>
-<p>
-  <a href="https://github.com/brunolnetto"> 
-    <img src="https://komarev.com/ghpvc/?username=brunolnetto&label=Profile%20views&color=0e75b6&style=flat" alt="brunolnetto" />
-  </a>
-</p>
 
