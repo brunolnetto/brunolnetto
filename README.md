@@ -14,6 +14,9 @@ Welcome 👋! It is me, Bruno Peixoto, a data adventurer!
 </h3>
 
 <details>
+<summary>
+  Click to unfold
+</summary>
   
 - I am currently 
   - 🌱 learning **languages syntax and structure**
