@@ -156,23 +156,34 @@ Welcome 👋! It is me, Bruno Peixoto, a data adventurer!
 
 <br><br>
 
+<div align="center">
+
 <!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Bruno Peixoto's Github stats" />
+
+<a href="https://github.com/stats-organization/github-stats-extended#gh-light-mode-only">
+<img height="200"
+  src="https://github-stats-extended.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats#gh-light-mode-only"
+  alt="Bruno Peixoto's Github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook#gh-light-mode-only" alt="Bruno Peixoto's Language stats" />
+
+<a href="https://github.com/stats-organization/github-stats-extended#gh-light-mode-only">
+<img height="200"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook#gh-light-mode-only"
+  alt="Bruno Peixoto's Language stats" />
 </a>
-</div>
 
 <!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Language stats" />
-</a>
-</div>
 
+<a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
+<img height="200"
+  src="https://github-stats-extended.vercel.app/api?username=brunolnetto&include_orgs=true&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&card_width=450&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only"
+  alt="Bruno Peixoto's Github stats" />
+</a>
+
+<a href="https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only">
+<img height="200"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook&theme=dark&bg_color=000000#gh-dark-mode-only"
+  alt="Bruno Peixoto's Language stats" />
+</a>
+
+</div>
